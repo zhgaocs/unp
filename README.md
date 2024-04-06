@@ -6,4 +6,6 @@
 
 + [Chapter 04 - Elementary TCP Sockets](./Vol.1/ch04/ch04.md)
 
++ [Chapter 06 - I/O Multiplexing: The select and poll Functions](./Vol.1/ch06/ch06.md)
+
 + [Chapter 26 - Threads](./Vol.1/ch26/ch26.md)
