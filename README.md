@@ -10,4 +10,6 @@
 
 + [Chapter 07 - Socket Options](./Vol.1/ch07/ch07.md)
 
++ [Chapter 11 - Name and Address Conversions](./Vol.1/ch11/ch11.md)
+
 + [Chapter 26 - Threads](./Vol.1/ch26/ch26.md)
